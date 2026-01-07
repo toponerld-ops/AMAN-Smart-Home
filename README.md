@@ -12,3 +12,7 @@ This is the first part for the AMAN Smart Home System " The Weather Station "
 -sends the temp and humidity values to the Aman os module 
 -you can open the weather app in the Aman os to view the current temp and humidity 
 -This will only contain the code of the weather station and will update the Aman os code soon 
+
+DEMO 
+
+https://youtu.be/XZgUcti3Fz8?si=Sn5kKoXc1R0ENcFa
